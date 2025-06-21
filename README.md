@@ -177,4 +177,4 @@ If you would like to report a bug or request a new feature, please open [an issu
 <br></br>
 
 ## License
-© 2024 *Yankos*. This theme is available as open source under the terms of the [MIT License](https://opensource.org/license/mit/).
+© 2025 *Aklima Khanam* · Theme originally by Yankos. This theme is available as open source under the terms of the [MIT License](https://opensource.org/license/mit/).
