@@ -3,7 +3,7 @@
 {% assign meta = "" | split: "" %}
 {% for yml_file in site.data %}
   {% assign meta = meta | push:yml_file[1] %}
-{% endfor %}
+{% endfor %} 
 {% assign meta = meta | sort: 'listing-order' %}
 
 <head>
