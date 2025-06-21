@@ -81,6 +81,18 @@
             <div><span>@{{ site.youtube_username }}</span></div>
           </a></li>
         {% endif %}
+        {% if site.researchgate_username %}
+          <li><a aria-label="My Researchgate" href="https://www.researchgate.net/{{ site.researchgate_username }}">
+            <img src="{{ '/assets/img/researchgate.svg' | prepend: site.baseurl }}" alt="My Researchgate">
+            <div><span>@{{ site.researchgate_username }}</span></div>
+          </a></li>
+        {% endif %}
+        {% if site.orcid_username %}
+          <li><a aria-label="My Orcid" href="https://www.orcid.org/{{ site.orcid_username }}">
+            <img src="{{ '/assets/img/orcid.svg' | prepend: site.baseurl }}" alt="My Orcid">
+            <div><span>@{{ site.orcid_username }}</span></div>
+          </a></li>
+        {% endif %}
         {% if site.blog_url %}
           <li><a aria-label="My Blog" href="{{ site.blog_url }}">
             <img src="{{ '/assets/img/house.svg' | prepend: site.baseurl }}" alt="My Blog">
