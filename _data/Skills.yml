@@ -1,13 +1,13 @@
 subject: Skills
-listing-order: 5
+listing-order: 2
 icon: "/assets/img/screwdriver-wrench.svg"
 contents:
-  - title: Programming Languages
+  - title: Programming and Data Analysis
     description: "
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg)
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fortran/fortran-original.svg)
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tableau/tableau-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg) Excel
+      ![root](https://github.com/aklimakhanam/aklimakhanam.github.io/assets/img/root-icon.png)
+      ![tableau](https://github.com/aklimakhanam/aklimakhanam.github.io/assets/img/tableau-icon.svg)
     "
