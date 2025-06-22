@@ -4,9 +4,9 @@ icon: "/assets/img/screwdriver-wrench.svg"
 contents:
   - title: Programming and Data Analysis
     description:  >
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="Python" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fortran/fortran-original.svg" height="40" alt="Fortran" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="SQL" />
-      <img src="/assets/img/tableau-icon.svg" height="40" alt="Tableau" />
-      <img src="/assets/img/root-icon.png" height="40" alt="ROOT" />
+      <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="Python" /> Python</p>
+      <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" /> C++</p>
+      <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fortran/fortran-original.svg" height="40" alt="Fortran" /> Fortran</p>
+      <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="SQL" /> SQL</p>
+      <p><img src="/assets/img/tableau-icon.svg" height="40" alt="Tableau" /> Tableau</p>
+      <p><img src="/assets/img/root-icon.png" height="40" alt="ROOT" /> ROOT</p>
