@@ -12,7 +12,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ site.title }}</title>
   {% seo %}
-
+  {% include head.html %}
   <link rel="icon" type="image/png" href="{{ site.icon_img | prepend: site.baseurl }}">
   <link rel="shortcut icon" type="image/png" href="{{ site.icon_img | prepend: site.baseurl }}">
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | prepend: site.baseurl }}">
@@ -149,8 +149,10 @@
         </li>
       {% endfor %}
       </ul>
+      {% include showcase.html %}
   </div>
   <div id="footer">
+    {% include footer.html %}
     <span>
       Copyright © 2025 | <a href="https://github.com/aklimakhanam">Aklima Khanam</a>
     </span>
