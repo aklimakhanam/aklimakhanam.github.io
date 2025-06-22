@@ -10,6 +10,9 @@ contents:
     date: Aug. 2022 - Present
   - title: Syracuse University, MS in Physics
     #grade: "**GPA**: `4.1/4.3`"
+    description: 
+      - 33 credits out of 36 are completed and the remaining 3 credits are on progress
+      - Courses include all the physics core courses (CM, QM, Thermal, EM) and some advanced courses (GR, Data Analysis, CP, Independent studies)
     date: Aug. 2022 - Present
   - title: National Research Nuclear University MEPhI, MS in Nuclear Engineering
     description:
@@ -21,4 +24,6 @@ contents:
       - Random sequential nucleation and growth of point-sized seeds to fixed-sized grains
     date: Jun. 2017 - Jul. 2018
   - title: University of Dhaka, BS in Physics
+    description:
+      - Four year program with all the core courses with several minor courses (ODE, Linear Algebra, Calculus, Statistics), and lab practicals
     date: Jan. 2013 - Jun. 2017 
