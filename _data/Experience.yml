@@ -5,18 +5,19 @@ contents:
   - title: SU Neutrino Group
     role: Graduate Research Assistant
     description:
-      - Current supervisor: Dr. Denver Whittington
-      - Previous supervisor: Dr. Mitchell Soderberg
+      - "Current supervisor: Dr. Denver Whittington"
+      - "Previous supervisor: Dr. Mitchell Soderberg"
     date: Aug. 2022 - Present
   - title: SU Physics Department
     role: Graduate Teaching Assistant
     description: 
-      - PHY 302: Mathematical Methods
-      - PHY 222: General Physics II
-    date: Apr. 2016 - Dec. 2018
-  - title: Pacebook
-    role: Software Engineer Intern
+      - "PHY 302: Mathematical Methods"
+      - "PHY 222: General Physics II"
+      - "PHY 211: General Physics I"
+    date: Spring 2023, 2024
+  - title: Department of EEE, Green University of Bangladesh
+    role: Lecturer
     description: 
-      - Designed the dynamic website using React for data visualization
-      - Integrated '*Yolo*' to boost the accuracy of the object detection
-    date: Jul. 2013 - Sep. 2013
+      - "PHY 101: Physics I"
+      - "PHY 103: Physics I Lab"
+    date:  Feb 2022 - May 2022
