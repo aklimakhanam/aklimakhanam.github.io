@@ -2,7 +2,7 @@ subject: Skills
 listing-order: 2
 icon: "/assets/img/screwdriver-wrench.svg"
 contents:
-  - title: Programming and Data Analysis
+  - title: Programming, Data Analysis, and Simulation tools
     description:  >
       <table cellpadding="10" cellspacing="10">
         <tr>
