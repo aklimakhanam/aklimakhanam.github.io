@@ -456,13 +456,5 @@ a { text-decoration:none; }
         img { max-width: 100%; }
     }
 
-    .carousel img {
-          max-height: 400px;     /* Limits height */
-          width: auto;           /* Keeps aspect ratio */
-          object-fit: cover;     /* Crop if needed */
-          border-radius: 8px;    /* Optional rounded corners */
-          margin: 0 auto;        /* Center horizontally */
-        }
-
     
 }
