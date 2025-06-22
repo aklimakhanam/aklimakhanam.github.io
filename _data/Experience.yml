@@ -1,18 +1,18 @@
 subject: Experiences
-listing-order: 2
+listing-order: 3
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Nanosoft
-    role: Project Manager
+  - title: SU Neutrino Group
+    role: Graduate Research Assistant
     description:
-      - Led development of a new chatbot software utilizing large language model
-      - Co-designer of '*Kopilot*' and '*Gemmini*'
-    date: Jan. 2024 - Ongoing
-  - title: Amazone
-    role: Senior Software Engineer
+      - Current supervisor: Dr. Denver Whittington
+      - Previous supervisor: Dr. Mitchell Soderberg
+    date: Aug. 2022 - Present
+  - title: SU Physics Department
+    role: Graduate Teaching Assistant
     description: 
-      - Built a Java microservice, database schema to manage customer accounts
-      - Enhanced internal pipelines to query real-time data from client devices
+      - PHY 302: Mathematical Methods
+      - PHY 222: General Physics II
     date: Apr. 2016 - Dec. 2018
   - title: Pacebook
     role: Software Engineer Intern
