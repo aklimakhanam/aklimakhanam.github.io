@@ -1,0 +1,13 @@
+subject: Research Projects
+listing-order: 4
+icon: "/assets/img/clipboard-list.svg"
+contents:
+  - title: "Investigating partially contained QE-like anti-numu events at the NOvA far detector"
+    description: 
+      - The goal is to add more statistics to the core data to increase NOvA three-flavor oscillation sensitivity
+      - "Frameworks and Languages Used: ROOT, CAFAna, C++, Python"
+    #image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
+  - title: "High multiplicity muon airshower analysis at NOvA far detector"
+    description:
+      - I study various features, including East-West Asymmetry, Anisotropy in Right Ascension, and Seasonal Variation of Cosmic Muons, among others.
+      - "Frameworks and Languages Used: ROOT, C++, Python"
