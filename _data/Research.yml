@@ -10,4 +10,12 @@ contents:
   - title: "High multiplicity muon airshower analysis at NOvA far detector"
     description:
       - I study various features, including East-West Asymmetry, Anisotropy in Right Ascension, and Seasonal Variation of Cosmic Muons, among others.
-      - "Frameworks and Languages Used: ROOT, C++, Python"
+      - "Frameworks and Languages Used: ROOT, C++, Python" 
+  - title: "Designing the anode plane of a single cube Liquid Argon Time Projection Chamber (LArTPC)"
+    description:
+      - This particular small neutrino detector is being built in the SU Neutrino lab
+      - I assisted in the construction by designing the anode plane with Autodesk Fusion 360
+  - title: "Simulation of the electric field inside a single cube LArTPC"
+    description:
+      - I simulated the electric field inside the TPC to ensure its uniformity
+      - The simulation was done by COMSOL Multiphysics
