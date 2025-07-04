@@ -10,12 +10,6 @@
   />
 </a>
 
-# 🎓 - Jekyll Professional Resume
-
-A simple and modern resume template, best fit for either **Academic CV (Curriculum Vitae)** or **Engineer Portfolio**.
-
-Live demo is available [here](https://byanko55.github.io/resume-demo/).
-
 ## Setup
 Fork [this repository](https://github.com/byanko55/jekyll-professional-resume) or download the [source](https://github.com/byanko55/jekyll-professional-resume/releases) as a zip.
 
@@ -116,11 +110,6 @@ contents:
 
 ```
 
-The rendered output looks like this:
-
-![example1](https://i.ibb.co/9TGKPrv/123312.webp)
-
-See also the advanced example. 
 
 > **Important**: You can use markdown syntax to **apply text bold, italic, and underlined** effects or **create HTML elements** (including image, links, span, etc.)!
 
