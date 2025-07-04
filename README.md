@@ -128,8 +128,6 @@ contents:
 
 ```
 
-![example](https://i.ibb.co/tCNCyYr/231321.webp)
-
 ## Build from Gem package
 
 If you don't like the above setup option (clone/fork the original github repo), then you can also build your site by installing the gem package remotely. Read this altenative [guide](https://github.com/byanko55/jekyll-professional-resume/blob/master/docs/Installation%20from%20package.md).
@@ -153,7 +151,6 @@ Wanna pick another color? You can edit the base theme palette in `assets/css/sty
 
 ### Site Shortcut Icon
 To replace the shortcut icon displayed on browser tab, modify *icon_img* field in `_config.yml`.
-![shortcut](https://i.ibb.co/g9cYjRj/213213214.webp)
 
 ```yml
 icon_img: "<IMAGE URL/PATH>"
