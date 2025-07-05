@@ -1,6 +1,6 @@
 subject: Leadership & Expert Roles
 listing-order: 6
-icon: fas fa-user-tie
+icon: "/assets/img/Leadership.svg"
 contents:
   - title: DAQ Expert, NOvA Experiment
     Organization: Fermilab / NOvA
