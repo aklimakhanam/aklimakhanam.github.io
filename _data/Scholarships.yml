@@ -3,8 +3,10 @@ listing-order: 6
 icon: "/assets/img/trophy.svg"
 contents:
   - title: Russian Government Scholarship 
-    description: For studying Nuclear Physics and Technologies at NRNU MEPhI
+    description: 
+      - For studying Nuclear Physics and Technologies at NRNU MEPhI
     date: 2018
   - title: Henry Levinstein fellowship
-    description:  For the strongest admission application st Syracuse University
+    description:  
+      - For the strongest admission application st Syracuse University
     date: 2022
