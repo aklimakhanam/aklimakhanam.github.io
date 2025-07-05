@@ -92,10 +92,16 @@
             <div><span>@{{ site.orcid_username }}</span></div>
           </a></li>
         {% endif %}
-        {% if site.orcid_username %}
+        {% if site.inspire-hep_username %}
           <li><a aria-label="My Inspire-HEP" href="https://inspirehep.net/{{ site.inspire-hep_username }}">
             <img src="{{ '/assets/img/inspire.svg' | prepend: site.baseurl }}" alt="My Inspire-HEP">
             <div><span>@{{ site.inspire-hep_username }}</span></div>
+          </a></li>
+        {% endif %}
+        {% if site.google-scholar_username %}
+          <li><a aria-label="My Google-Scholar" href="https://scholar.google.com/{{ site.inspire-hep_username }}">
+            <img src="{{ '/assets/img/google-scholar.svg' | prepend: site.baseurl }}" alt="My Google-Scholar">
+            <div><span>@{{ site.google-scholar_username }}</span></div>
           </a></li>
         {% endif %}
         {% if site.blog_url %}
