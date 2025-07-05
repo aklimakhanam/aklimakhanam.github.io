@@ -92,6 +92,12 @@
             <div><span>@{{ site.orcid_username }}</span></div>
           </a></li>
         {% endif %}
+        {% if site.orcid_username %}
+          <li><a aria-label="My Inspire-HEP" href="https://inspirehep.net/{{ site.inspire-hep_username }}">
+            <img src="{{ '/assets/img/inspire_hep.png' | prepend: site.baseurl }}" alt="My Inspire-HEP">
+            <div><span>@{{ site.inspire-hep_username }}</span></div>
+          </a></li>
+        {% endif %}
         {% if site.blog_url %}
           <li><a aria-label="My Blog" href="{{ site.blog_url }}">
             <img src="{{ '/assets/img/house.svg' | prepend: site.baseurl }}" alt="My Blog">
