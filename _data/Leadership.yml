@@ -1,0 +1,20 @@
+subject: Leadership & Expert Roles
+listing-order: 6
+icon: fas fa-user-tie
+contents:
+  - title: DAQ Expert, NOvA Experiment
+    Organization: Fermilab / NOvA
+    Duration: 2023–Present
+    Responsibilities: >
+      Led troubleshooting and operations of the NOvA Data Acquisition (DAQ) system;
+      trained new experts; provided on-call support to ensure uninterrupted data-taking.
+    Location: Batavia, IL, USA
+
+  - title: Nearline Monitoring Expert
+    Organization: NOvA Experiment
+    Duration: 2023–Present
+    Responsibilities: >
+      Oversaw daily Nearline data quality monitoring; coordinated expert shifts;
+      maintained and improved monitoring tools.
+    Location: Remote / Fermilab
+
