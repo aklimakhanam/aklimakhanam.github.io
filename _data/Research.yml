@@ -6,16 +6,20 @@ contents:
     description: 
       - The goal is to add more statistics to the core data to increase NOvA three-flavor oscillation sensitivity
       - "Frameworks and Languages Used: ROOT, CAFAna, C++, Python"
+    date: Aug 2024 – Present
     #image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
   - title: "High multiplicity muon airshower analysis at NOvA far detector"
     description:
       - I study various features, including East-West Asymmetry, Anisotropy in Right Ascension, and Seasonal Variation of Cosmic Muons, among others.
       - "Frameworks and Languages Used: ROOT, C++, Python" 
+    date: Jun 2023 – Present
   - title: "Designing the anode plane of a single cube Liquid Argon Time Projection Chamber (LArTPC)"
     description:
       - This particular small neutrino detector is being built in the SU Neutrino lab
       - I assisted in the construction by designing the anode plane with Autodesk Fusion 360
+    date: Sep 2022 – Dec 2022
   - title: "Simulation of the electric field inside a single cube LArTPC"
     description:
       - I simulated the electric field inside the TPC to ensure its uniformity
       - The simulation was done by COMSOL Multiphysics
+    date: Aug 2022 – Sep 2022
