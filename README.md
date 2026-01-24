@@ -1,7 +1,7 @@
 # **Physicist | Data Scientist | Researcher**
 
 ### *About Me*
-Physics Ph.D. candidate at Syracuse University, conducting high-energy physics research at Fermilab. Experienced in exploratory data analysis (EDA), AI/ML modeling on large, complex datasets, and ETL pipelines. Interested in data science roles, open to relocating anywhere in the United States.
+<p align="justify"> Physics Ph.D. candidate at Syracuse University, conducting high-energy physics research at Fermilab. Experienced in exploratory data analysis (EDA), AI/ML modeling on large, complex datasets, and ETL pipelines. Interested in data science roles, open to relocating anywhere in the United States. </p>
 
 ---
 
@@ -65,6 +65,7 @@ Physics Ph.D. candidate at Syracuse University, conducting high-energy physics r
 ### Awards and Honors
 
 ### Publications
+
 
 
 
