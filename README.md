@@ -83,14 +83,23 @@
 
 ### *Awards and Honors*
 <ul>
-<li style="text-align: justify;">URA Visiting Scholar Award from Universities Research Association in support of the Ph.D. research at Fermilab (Fall 2025).</li>
-<li style="text-align: justify;">Henry Levinstein Fellowship from Syracuse University for the strongest admission application (Fall 2022).</li>
-<li style="text-align: justify;">•	Bangladesh Government and Russian Federal Scholarship for studying Nuclear Engineering at National Research Nuclear University MEPhI, Moscow, Russia (2018).</li>
+<li style="text-align: justify;">URA Visiting Scholar Award from Universities Research Association in support of the Ph.D. research at Fermilab (2025).</li>
+<li style="text-align: justify;">Henry Levinstein Fellowship from Syracuse University for the strongest admission application (2022).</li>
+<li style="text-align: justify;">Bangladesh Government and Russian Federal Scholarship for studying Nuclear Engineering at National Research Nuclear University MEPhI, Moscow, Russia (2018).</li>
 </ul>
 
 ---
 
 ### *Publications*
+<ul>
+<li style="text-align: justify;">Joint neutrino oscillation analysis from the T2K and NOvA experiments, Nature 646, 818–824 (2025).</li>
+<li style="text-align: justify;">Effects of competition between random sequential nucleation of point-sized seeds and island growth by adsorption of finite-sized grains, Physical Review E, 99, 042110 (2019).</li>
+<li style="text-align: justify;">Precision Measurement of Neutrino Oscillation Parameters with 10 Years of Data from the NOvA Experiment, Phys. Rev. Lett. 136, 011802 (2026).</li>
+<li style="text-align: justify;">Explanation of the seasonal variation of cosmic multiple muon events observed with the NOvA Near Detector, Phys. Rev. D 113, 012001 (2026).</li>
+<li style="text-align: justify;">Ionization-based search for magnetic monopoles using the NOvA Far Detector, arXiv:2512.20294 (2026)</li>
+<li style="text-align: justify;">Measurement of pi0 Production in anti-muon neutrino Charged-Current Interactions in the NOvA Near Detector, arXiv:2511.05807 (2025).</li>
+<li style="text-align: justify;">Search for Accelerator-Produced Sub-GeV Dark Matter with the NOvA Near Detector, arXiv:2507.10754 (2025).</li>
+</ul>
 
 
 
