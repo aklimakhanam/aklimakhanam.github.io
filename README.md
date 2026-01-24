@@ -42,9 +42,9 @@
 ### *Work Experience*
 **Research Assistant | Syracuse University Neutrino Physics Group | August 2022 - Present**
 <ul>
-<li><p style="text-align: justify;">Processed and analyzed 500K+ rows of experimental particle physics data using Python for quantitative, statistical, and time-series analysis of physics quantities, reducing data processing time by 30%.</p></li>
-<li><p style="text-align: justify;">Analyzed more than 1M rows of simulated high-energy elementary particle physics data to identify signals and suppress backgrounds, improving different parameter calculation sensitivity by 15% using C++.</p></li>
-<li><p style="text-align: justify;">Partnered with cross-functional teams (scientists, engineers, and operations staff) to translate complex quantitative findings into actionable insights, improving decision-making for weekly experimental operations.</p></li>
+<li style="text-align: justify;">Processed and analyzed 500K+ rows of experimental particle physics data using Python for quantitative, statistical, and time-series analysis of physics quantities, reducing data processing time by 30%.</li>
+<li style="text-align: justify;">Analyzed more than 1M rows of simulated high-energy elementary particle physics data to identify signals and suppress backgrounds, improving different parameter calculation sensitivity by 15% using C++.</li>
+<li style="text-align: justify;">Partnered with cross-functional teams (scientists, engineers, and operations staff) to translate complex quantitative findings into actionable insights, improving decision-making for weekly experimental operations.</li>
 </ul>
 
 **Teaching Assistant | Syracuse University | January 2023 - May 2024**
@@ -67,6 +67,7 @@
 ### Awards and Honors
 
 ### Publications
+
 
 
 
