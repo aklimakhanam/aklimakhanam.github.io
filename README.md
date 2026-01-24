@@ -1,7 +1,12 @@
 # **Physicist | Data Scientist | Researcher**
 
 ### *About Me*
-<p align="justify"> Physics Ph.D. candidate at Syracuse University, conducting high-energy physics research at Fermilab. Experienced in exploratory data analysis (EDA), AI/ML modeling on large, complex datasets, and ETL pipelines. Interested in data science roles, open to relocating anywhere in the United States. </p>
+<p align="justify"> Physics Ph.D. candidate at Syracuse University, conducting high-energy physics research at Fermilab (NOvA neutrino experiment). Experienced in exploratory data analysis (EDA), AI/ML modeling on large, complex datasets, and ETL pipelines. Interested in data science roles, open to relocating anywhere in the United States. </p>
+
+---
+
+### *Skills*
+Python (Pandas, scikit-learn, NumPy, Matplotlib, Seaborm), SQL (CTEs, window functions), R, C++, Tableau, Excel, Azure/AWS, GitHub, Bash, Unix/Linux, LaTeX
 
 ---
 
@@ -61,18 +66,23 @@
 
 ---
 
-### Leadership Roles
-**Data Acquisition Expert**
--
+### *Leadership Roles*
+**Data Acquisition Expert**  
+<ul>
+<li style="text-align: justify;">Provided 24/7 on-shift support during live physics data collection operations, diagnosing issues and recovering crashed experiment runs in real time to maintain data collection uptime over 95% during detector operations.</li>
+</ul>
 
-**Data Quality Monitoring Expert**
--
+**Data Quality Monitoring Expert**  
+<ul>
+<li style="text-align: justify;">-	Designed and maintained data processing monitoring and analysis tools to evaluate detector livetime, noise behavior, and system performance, applying data-driven analysis to identify anomalies and support reliable, real-time operations improving data quality by 10%.</li>
+</ul>
 
 ---
 
 ### Awards and Honors
 
 ### Publications
+
 
 
 
