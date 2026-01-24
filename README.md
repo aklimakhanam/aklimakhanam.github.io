@@ -1,16 +1,34 @@
 # Physicist | Data Scientist | Researcher
+##
 ### About Me
-I am a particle physicist working at the Fermilab Neutrino Experiment NOvA. As a part of my Ph.D. research, I analyze millions of rows of physics data using Python, C++, and various other analysis tools. I am very passionate about data science
+Physics Ph.D. candidate at Syracuse University, conducting high-energy physics research at Fermilab. Experienced in ETL pipelines, exploratory data analysis (EDA), and AI/ML modeling on large, complex datasets. Interested in data science roles.
+
+### Projects
+#### SQL Project:
+- Dataset:
+- Skills:
+- Description:
+#### AI/ML Project:
+- Dataset:
+- Skills:
+- Description:
+#### Dashboarding:
+- Dataset:
+- Skills:
+- Description:
+
 ### Education
-- PhD in Physics, Syracuse University, NY, USA (Aug 2022 - Present)
-- MS in Physics, Syracuse University, NY, USA (2025)
-- MS in Nuclear Reactor Physics, National Research Nuclear University MEPhI, Moscow, Russia 
-- MS in Physics, University of Dhaka, Dhaka, Bangladesh 
+- Ph.D. in Physics, Syracuse University, NY, USA (Aug 2022 - Present)
+- M.S. in Physics, Syracuse University, NY, USA (2025)
+- M.S. in Nuclear Reactor Physics, National Research Nuclear University MEPhI, Moscow, Russia 
+- M.S. in Physics, University of Dhaka, Dhaka, Bangladesh
+- B.S. in Physics, University of Dhaka, Dhaka, Bangladesh
 
 ### Work Experience
 - RA/TA
 - Lecturer
 
 ### Projects
+
 
 
