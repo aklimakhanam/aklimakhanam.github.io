@@ -6,7 +6,7 @@
 ---
 
 ### *Skills*
-Python (Pandas, scikit-learn, NumPy, Matplotlib, Seaborm), SQL (CTEs, window functions), R, C++, Tableau, Excel, Azure/AWS, GitHub, Bash, Unix/Linux, LaTeX
+<p align="justify"> Python (Pandas, scikit-learn, NumPy, Matplotlib, Seaborm), SQL (CTEs, window functions), R, C++, Tableau, Excel, Azure/AWS, GitHub, Bash, Unix/Linux, LaTeX. </p>
 
 ---
 
@@ -31,8 +31,10 @@ Python (Pandas, scikit-learn, NumPy, Matplotlib, Seaborm), SQL (CTEs, window fun
 
 **Interactive Business Intelligence Dashboarding**  
 **Independent Project | Tableau | 2025**  
-- Built interactive Tableau dashboards for call center, telecom, and sales datasets.  
-- Enabled rapid performance monitoring, comparative analysis, and stakeholder-ready visualization of key business metrics.  
+<ul>
+<li style="text-align: justify;">Built interactive Tableau dashboards for call center, telecom, and sales datasets.</li>
+<li style="text-align: justify;">Enabled rapid performance monitoring, comparative analysis, and stakeholder-ready visualization of key business metrics.</li>
+</ul>      
 [Project Link](https://public.tableau.com/app/profile/aklima.khanam.lima/vizzes)
 
 ---
@@ -74,14 +76,22 @@ Python (Pandas, scikit-learn, NumPy, Matplotlib, Seaborm), SQL (CTEs, window fun
 
 **Data Quality Monitoring Expert**  
 <ul>
-<li style="text-align: justify;">-	Designed and maintained data processing monitoring and analysis tools to evaluate detector livetime, noise behavior, and system performance, applying data-driven analysis to identify anomalies and support reliable, real-time operations improving data quality by 10%.</li>
+<li style="text-align: justify;">Designed and maintained data processing, monitoring, and analysis tools to evaluate detector livetime, noise behavior, and system performance, applying data-driven analysis to identify anomalies and support reliable, real-time operations, improving data quality by 10%.</li>
 </ul>
 
 ---
 
-### Awards and Honors
+### *Awards and Honors*
+<ul>
+<li style="text-align: justify;">URA Visiting Scholar Award from Universities Research Association in support of the Ph.D. research at Fermilab (Fall 2025).</li>
+<li style="text-align: justify;">Henry Levinstein Fellowship from Syracuse University for the strongest admission application (Fall 2022).</li>
+<li style="text-align: justify;">•	Bangladesh Government and Russian Federal Scholarship for studying Nuclear Engineering at National Research Nuclear University MEPhI, Moscow, Russia (2018).</li>
+</ul>
 
-### Publications
+---
+
+### *Publications*
+
 
 
 
