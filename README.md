@@ -4,6 +4,7 @@
 Physics Ph.D. candidate at Syracuse University, conducting high-energy physics research at Fermilab. Experienced in exploratory data analysis (EDA), AI/ML modeling on large, complex datasets, and ETL pipelines. Interested in data science roles, open to relocating anywhere in the United States.
 
 ---
+
 ### *Projects*
 **Housing Price Forecasting & Regression Modeling**  
 **Kaggle | U.S. Housing Prices Competition | Python | 2026**  
@@ -26,14 +27,18 @@ Physics Ph.D. candidate at Syracuse University, conducting high-energy physics r
 - Built interactive Tableau dashboards for call center, telecom, and sales datasets.  
 - Enabled rapid performance monitoring, comparative analysis, and stakeholder-ready visualization of key business metrics.  
 [Project Link](https://public.tableau.com/app/profile/aklima.khanam.lima/vizzes)
+
 ---
+
 ### *Education*
 - Ph.D. in Physics, Syracuse University, NY, USA (Aug 2022 - Present)
 - M.S. in Physics, Syracuse University, NY, USA (2025)
 - M.S. in Nuclear Reactor Physics, National Research Nuclear University MEPhI, Moscow, Russia 
 - M.S. in Physics, University of Dhaka, Dhaka, Bangladesh
 - B.S. in Physics, University of Dhaka, Dhaka, Bangladesh
+
 ---
+
 ### *Work Experience*
 **Research Assistant | Syracuse University Neutrino Physics Group | August 2022 - Present**
 - Processed and analyzed 500K+ rows of experimental particle physics data using Python for quantitative, statistical, and time-series analysis of physics quantities, reducing data processing time by 30%.
@@ -41,21 +46,26 @@ Physics Ph.D. candidate at Syracuse University, conducting high-energy physics r
 - Partnered with cross-functional teams (scientists, engineers, and operations staff) to translate complex quantitative findings into actionable insights, improving decision-making for weekly experimental operations.
 
 **Teaching Assistant | Syracuse University | January 2023 - May 2024**
-- Communicated complex mathematical and computational concepts clearly through written, verbal, and visual explanations, strengthening the ability to articulate technical ideas across diverse audiences.
+- Taught undergraduate physics and mathematical methods to 100+ students, designing problem sets, lab assessments, and grading rubrics while clearly communicating complex quantitative concepts and improving student engagement.
 
-**Lecturer | Green University of Bangladesh | **
-- 
+**Lecturer | Green University of Bangladesh | February 2022 - May 2022**
+- Delivered lectures and labs to 200+ freshmen and sophomore engineering students, modernized lab modules, and optimized grading workflows for improved academic consistency.
+
 ---
+
 ### Leadership Roles
 **Data Acquisition Expert**
 -
 
 **Data Quality Monitoring Expert**
 -
+
 ---
+
 ### Awards and Honors
 
 ### Publications
+
 
 
 
