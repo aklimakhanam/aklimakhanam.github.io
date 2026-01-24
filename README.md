@@ -8,9 +8,11 @@
 ### *Projects*
 **Housing Price Forecasting & Regression Modeling**  
 **Kaggle | U.S. Housing Prices Competition | Python | 2026**  
-- Built and evaluated multiple regression and tree-based models (Linear Regression, Random Forest, XGBoost, CatBoost, LightGBM, Voting Regressor) on structured housing data.  
-- Performed end-to-end EDA, feature engineering, preprocessing pipelines, and model evaluation.  
-- Achieved 33% leaderboard performance, demonstrating robust predictive modeling under real-world data constraints.  
+<ul>
+<li style="text-align: justify;">Built and evaluated multiple regression and tree-based models (Linear Regression, Random Forest, XGBoost, CatBoost, LightGBM, Voting Regressor) on structured housing data.</li>
+<li style="text-align: justify;">Performed end-to-end EDA, feature engineering, preprocessing pipelines, and model evaluation.</li>
+<li style="text-align: justify;">Achieved 33% leaderboard performance, demonstrating robust predictive modeling under real-world data constraints.</li>
+</ul>  
 [Project Link](https://www.kaggle.com/code/aklimakhanamlima/housing-prices-dataset-ml)
 
 
@@ -43,15 +45,19 @@
 **Research Assistant | Syracuse University Neutrino Physics Group | August 2022 - Present**
 <ul>
 <li style="text-align: justify;">Processed and analyzed 500K+ rows of experimental particle physics data using Python for quantitative, statistical, and time-series analysis of physics quantities, reducing data processing time by 30%.</li>
-<li style="text-align: justify;">Analyzed more than 1M rows of simulated high-energy elementary particle physics data to identify signals and suppress backgrounds, improving different parameter calculation sensitivity by 15% using C++.</li>
+<li style="text-align: justify;">Analyzed 1M+ rows of simulated high-energy elementary particle physics data to identify signals and suppress backgrounds, improving different parameter calculation sensitivity by 15% using C++.</li>
 <li style="text-align: justify;">Partnered with cross-functional teams (scientists, engineers, and operations staff) to translate complex quantitative findings into actionable insights, improving decision-making for weekly experimental operations.</li>
 </ul>
 
 **Teaching Assistant | Syracuse University | January 2023 - May 2024**
-- Taught undergraduate physics and mathematical methods to 100+ students, designing problem sets, lab assessments, and grading rubrics while clearly communicating complex quantitative concepts and improving student engagement.
+<ul>
+<li style="text-align: justify;">Taught undergraduate physics and mathematical methods to 100+ students, designing problem sets, lab assessments, and grading rubrics while clearly communicating complex quantitative concepts and improving student engagement.</li>
+</ul>
 
 **Lecturer | Green University of Bangladesh | February 2022 - May 2022**
-- Delivered lectures and labs to 200+ freshmen and sophomore engineering students, modernized lab modules, and optimized grading workflows for improved academic consistency.
+<ul>
+<li style="text-align: justify;">Delivered lectures and labs to 200+ freshmen and sophomore engineering students, modernized lab modules, and optimized grading workflows for improved academic consistency.</li>
+</ul>
 
 ---
 
@@ -67,6 +73,7 @@
 ### Awards and Honors
 
 ### Publications
+
 
 
 
