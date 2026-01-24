@@ -1,10 +1,10 @@
-# Physicist | Data Scientist | Researcher
+# **Physicist | Data Scientist | Researcher**
 
-### About Me
+### **About Me**
 Physics Ph.D. candidate at Syracuse University, conducting high-energy physics research at Fermilab. Experienced in ETL pipelines, exploratory data analysis (EDA), and AI/ML modeling on large, complex datasets. Interested in data science roles, open to relocating anywhere in the United States.
 
-### Projects
-### Housing Price Forecasting & Regression Modeling
+### **Projects**
+### **Housing Price Forecasting & Regression Modeling**
 **Kaggle | U.S. Housing Prices Competition | Python | 2026**  
 - Built and evaluated multiple regression and tree-based models (Linear Regression, Random Forest, XGBoost, CatBoost, LightGBM, Voting Regressor) on structured housing data.  
 - Performed end-to-end EDA, feature engineering, preprocessing pipelines, and model evaluation.  
@@ -58,6 +58,7 @@ Physics Ph.D. candidate at Syracuse University, conducting high-energy physics r
 ### Awards and Honors
 
 ### Publications
+
 
 
 
