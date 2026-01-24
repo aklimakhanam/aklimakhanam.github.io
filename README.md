@@ -8,18 +8,20 @@
 ### *Projects*
 **Housing Price Forecasting & Regression Modeling**  
 **Kaggle | U.S. Housing Prices Competition | Python | 2026**  
-[Project Link](https://www.kaggle.com/code/aklimakhanamlima/housing-prices-dataset-ml)
 <ul>
 <li style="text-align: justify;">Built and evaluated multiple regression and tree-based models (Linear Regression, Random Forest, XGBoost, CatBoost, LightGBM, Voting Regressor) on structured housing data.</li>
 <li style="text-align: justify;">Performed end-to-end EDA, feature engineering, preprocessing pipelines, and model evaluation.</li>
 <li style="text-align: justify;">Achieved 33% leaderboard performance, demonstrating robust predictive modeling under real-world data constraints.</li>
 </ul>  
+[Project Link](https://www.kaggle.com/code/aklimakhanamlima/housing-prices-dataset-ml)
 
 **Income & Economic Indicator Analysis Using Real-World Data**  
 **Independent Project | SQL | 2025**  
-- Cleaned, structured, and analyzed 500K+ rows of real-world economic and income data using SQL and Python.  
-- Performed exploratory, comparative, and statistical analyses to identify trends, outliers, and correlations.  
-- Generated insights relevant to macroeconomic and market-level patterns.  
+<ul>
+<li style="text-align: justify;">Cleaned, structured, and analyzed 500K+ rows of real-world economic and income data using SQL and Python.</li>
+<li style="text-align: justify;">Performed exploratory, comparative, and statistical analyses to identify trends, outliers, and correlations.</li>
+<li style="text-align: justify;">Generated insights relevant to macroeconomic and market-level patterns.</li>
+</ul>    
 [Project Link](https://github.com/aklimakhanam/SQL_Tableau_Excel/tree/main/US_Household_Income_Dataset)
 
 **Interactive Business Intelligence Dashboarding**  
