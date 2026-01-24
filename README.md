@@ -3,6 +3,8 @@
 ### *About Me*
 Physics Ph.D. candidate at Syracuse University, conducting high-energy physics research at Fermilab. Experienced in ETL pipelines, exploratory data analysis (EDA), and AI/ML modeling on large, complex datasets. Interested in data science roles, open to relocating anywhere in the United States.
 
+---
+
 ### *Projects*
 **Housing Price Forecasting & Regression Modeling**  
 **Kaggle | U.S. Housing Prices Competition | Python | 2026**  
@@ -11,7 +13,6 @@ Physics Ph.D. candidate at Syracuse University, conducting high-energy physics r
 - Achieved 33% leaderboard performance, demonstrating robust predictive modeling under real-world data constraints.  
 [Project Link](https://www.kaggle.com/code/aklimakhanamlima/housing-prices-dataset-ml)
 
----
 
 **Income & Economic Indicator Analysis Using Real-World Data**  
 **Independent Project | SQL | 2025**  
@@ -20,7 +21,6 @@ Physics Ph.D. candidate at Syracuse University, conducting high-energy physics r
 - Generated insights relevant to macroeconomic and market-level patterns.  
 [Project Link](https://github.com/aklimakhanam/SQL_Tableau_Excel/tree/main/US_Household_Income_Dataset)
 
----
 
 **Interactive Business Intelligence Dashboarding**  
 **Independent Project | Tableau | 2025**  
@@ -28,6 +28,7 @@ Physics Ph.D. candidate at Syracuse University, conducting high-energy physics r
 - Enabled rapid performance monitoring, comparative analysis, and stakeholder-ready visualization of key business metrics.  
 [Project Link](https://public.tableau.com/app/profile/aklima.khanam.lima/vizzes)
 
+---
 
 ### *Education*
 - Ph.D. in Physics, Syracuse University, NY, USA (Aug 2022 - Present)
@@ -58,6 +59,7 @@ Physics Ph.D. candidate at Syracuse University, conducting high-energy physics r
 ### Awards and Honors
 
 ### Publications
+
 
 
 
