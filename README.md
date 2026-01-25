@@ -6,7 +6,7 @@
 ---
 
 ### *Skills*
-<p align="justify"> Python (Pandas, scikit-learn, NumPy, Matplotlib, Seaborm), SQL (CTEs, window functions), R, C++, Tableau, Excel, Azure/AWS, GitHub, Bash, Unix/Linux, LaTeX. </p>
+<p align="justify"> Python (Pandas, scikit-learn, NumPy, Matplotlib), SQL (CTEs, window functions), R, C++, Tableau, Excel, Azure/AWS, GitHub, Bash, Unix/Linux, LaTeX. </p>
 
 ---
 
@@ -100,6 +100,7 @@
 <li style="text-align: justify;">Measurement of pi0 Production in anti-muon neutrino Charged-Current Interactions in the NOvA Near Detector, arXiv:2511.05807 (2025).</li>
 <li style="text-align: justify;">Search for Accelerator-Produced Sub-GeV Dark Matter with the NOvA Near Detector, arXiv:2507.10754 (2025).</li>
 </ul>
+
 
 
 
