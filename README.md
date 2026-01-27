@@ -29,6 +29,16 @@
 </ul>    
 [Project Link](https://github.com/aklimakhanam/SQL_Tableau_Excel/tree/main/US_Household_Income_Dataset)
 
+**World Life Expectancy Data Cleaning & Exploratory Analysis**  
+**Independent Project | SQL | 2025**
+<ul>
+<li style="text-align: justify;">Cleaned and structured a 16-year (2007–2022) global life expectancy dataset covering 193 countries (2007–2022) using SQL, resolving duplicate country–year records and imputing missing values with window functions and self-joins.</li>
+<li style="text-align: justify;">Performed exploratory and time-series analysis to examine life expectancy trends across countries and over time, identifying an average global increase of 5 years from 2007–2022.</li>
+<li style="text-align: justify;">Analyzed relationships between life expectancy, adult mortality rates, GDP, BMI, and development status, showing that lower adult mortality rates and higher GDP are associated with longer lifespans, particularly in developed countries.</li>
+</ul>    
+[Project Link](https://github.com/aklimakhanam/SQL_Tableau_Excel/tree/main/World_Life_Expectancy_Dataset)
+
+
 **Interactive Business Intelligence Dashboarding**  
 **Independent Project | Tableau | 2025**  
 <ul>
@@ -100,6 +110,7 @@
 <li style="text-align: justify;">Measurement of pi0 Production in anti-muon neutrino Charged-Current Interactions in the NOvA Near Detector, arXiv:2511.05807 (2025).</li>
 <li style="text-align: justify;">Search for Accelerator-Produced Sub-GeV Dark Matter with the NOvA Near Detector, arXiv:2507.10754 (2025).</li>
 </ul>
+
 
 
 
