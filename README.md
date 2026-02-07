@@ -11,6 +11,14 @@
 ---
 
 ### *Projects*
+**Stock Return Prediction & Quantitative Modeling**
+**Kaggle | Stock Price Prediction Challenge | Python | Ongoing**
+<ul>
+<li style="text-align: justify;">Built and trained predictive models for stock returns using regression and ensemble techniques (Random Forest, XGBoost, LightGBM), performing end-to-end feature engineering, data preprocessing, and model evaluation. Forecasting and performance validation in final stages.</li>
+<li style="text-align: justify;">Utilized Python for data analysis, time series handling, and visualization to support actionable insights for quantitative trading strategies.</li>
+</ul>  
+[Project Link](https://www.kaggle.com/code/aklimakhanamlima/stock-price-prediction)
+
 **Housing Price Forecasting & Regression Modeling**  
 **Kaggle | U.S. Housing Prices Competition | Python | 2026**  
 <ul>
@@ -110,6 +118,7 @@
 <li style="text-align: justify;">Measurement of pi0 Production in anti-muon neutrino Charged-Current Interactions in the NOvA Near Detector, arXiv:2511.05807 (2025).</li>
 <li style="text-align: justify;">Search for Accelerator-Produced Sub-GeV Dark Matter with the NOvA Near Detector, arXiv:2507.10754 (2025).</li>
 </ul>
+
 
 
 
