@@ -55,6 +55,13 @@
 </ul>      
 [Project Link](https://public.tableau.com/app/profile/aklima.khanam.lima/vizzes)
 
+**U.S. Public Debt Analysis and Forecasting**  
+**Independent Project | Excel | 2025**
+<ul>
+<li style="text-align: justify;">Analyzed 30+ years of U.S. public debt in Excel, calculating growth rates, identifying trends and historical peaks, and performing time-series forecasting to generate actionable insights for long-term fiscal planning.</li>
+</ul>      
+[Project Link](https://github.com/aklimakhanam/SQL_Tableau_Excel/tree/main/US_Debt_Tracker_Dataset)
+
 ---
 
 ### *Education*
@@ -118,6 +125,7 @@
 <li style="text-align: justify;">Measurement of pi0 Production in anti-muon neutrino Charged-Current Interactions in the NOvA Near Detector, arXiv:2511.05807 (2025).</li>
 <li style="text-align: justify;">Search for Accelerator-Produced Sub-GeV Dark Matter with the NOvA Near Detector, arXiv:2507.10754 (2025).</li>
 </ul>
+
 
 
 
