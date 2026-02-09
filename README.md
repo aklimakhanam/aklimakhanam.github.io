@@ -12,7 +12,7 @@
 
 ### *Projects*
 **Stock Return Prediction & Quantitative Modeling**  
-**Kaggle | Stock Price Prediction Challenge | Python | Ongoing**
+**Kaggle | Stock Price Prediction Challenge | Python | 2026**
 <ul>
 <li style="text-align: justify;">Built end-to-end machine learning models for stock return prediction using Random Forest, XGBoost, CatBoost and LightGBM, including feature engineering, preprocessing, and time-series–aware evaluation.</li>
 <li style="text-align: justify;">Achieved private test MSE of 0.00084, with consistent public/private performance, demonstrating stable generalization on financial time-series data.</li>
@@ -125,6 +125,7 @@
 <li style="text-align: justify;">Measurement of pi0 Production in anti-muon neutrino Charged-Current Interactions in the NOvA Near Detector, arXiv:2511.05807 (2025).</li>
 <li style="text-align: justify;">Search for Accelerator-Produced Sub-GeV Dark Matter with the NOvA Near Detector, arXiv:2507.10754 (2025).</li>
 </ul>
+
 
 
 
